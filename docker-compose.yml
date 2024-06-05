@@ -1,0 +1,5 @@
+services:
+  python:
+    build: ./python
+  r:
+    build: ./r
